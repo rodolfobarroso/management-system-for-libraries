@@ -643,9 +643,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev-csharp\\Estudo\\ManagementSystemforLibraries\\ManagementSystemforLibraries\\ManagementSystemforLibraries.csproj",
-      "projectName": "ManagementSystemforLibraries",
-      "projectPath": "C:\\dev-csharp\\Estudo\\ManagementSystemforLibraries\\ManagementSystemforLibraries\\ManagementSystemforLibraries.csproj",
+      "projectUniqueName": "C:\\dev-csharp\\Estudo\\ManagementSystemforLibraries\\ManagementSystemforLibraries\\WebApplication.csproj",
+      "projectName": "WebApplication",
+      "projectPath": "C:\\dev-csharp\\Estudo\\ManagementSystemforLibraries\\ManagementSystemforLibraries\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
       "outputPath": "C:\\dev-csharp\\Estudo\\ManagementSystemforLibraries\\ManagementSystemforLibraries\\obj\\",
       "projectStyle": "PackageReference",
