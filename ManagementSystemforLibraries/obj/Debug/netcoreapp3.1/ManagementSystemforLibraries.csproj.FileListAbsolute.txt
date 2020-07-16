@@ -11,8 +11,6 @@ C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\b
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\bin\Debug\netcoreapp3.1\ManagementSystemforLibraries.Views.pdb
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.AssemblyInfoInputs.cache
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.AssemblyInfo.cs
-C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.csproj.CoreCompileInputs.cache
-C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.MvcApplicationPartsAssemblyInfo.cache
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.RazorAssemblyInfo.cache
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.RazorAssemblyInfo.cs
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.TagHelpers.input.cache
@@ -34,3 +32,4 @@ C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\o
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.pdb
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.genruntimeconfig.cache
 C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.csproj.CopyComplete
+C:\dev-csharp\Estudo\ManagementSystemforLibraries\ManagementSystemforLibraries\obj\Debug\netcoreapp3.1\ManagementSystemforLibraries.csprojAssemblyReference.cache
