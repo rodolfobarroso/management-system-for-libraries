@@ -34,6 +34,9 @@ namespace ManagementSystemforLibraries
             });
 
             services.AddScoped<NotificationService>();
+            services.AddScoped<AuthorService>();
+            services.AddScoped<PublishingCompanyService>();
+            services.AddScoped<BookService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
