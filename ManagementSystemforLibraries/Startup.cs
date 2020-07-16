@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using WebApplication.Services;
 using System;
 namespace ManagementSystemforLibraries
 {
@@ -32,6 +33,7 @@ namespace ManagementSystemforLibraries
                 options.Cookie.IsEssential = true;
             });
 
+            services.AddScoped<NotificationService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

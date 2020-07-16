@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using WebApplication.Services
+@inject NotificationService NotificationService
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -51,5 +53,16 @@
     <script src="~/lib/jquery-validation/dist/localization/messages_pt_BR.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @RenderSection("Scripts", required: false)
+
+    <script>
+    const types = ["success", "warning", "error"];
+
+    const notifications = @Json.Serialize(NotificationService.PopAll());
+
+    for (notification of notifications) {
+        toastr[types[notification.type]](notification.message, notification.title)
+    }
+
+    </script>
 </body>
 </html>
